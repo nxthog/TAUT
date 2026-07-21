@@ -1,167 +1,237 @@
+إليك ملف **`README.md`** كامل لمشروع موقع **TAUT International Team** بشكل احترافي:
+
+```md
 # TAUT International Team Website
 
-<div align="center">
+![TAUT Logo](assets/images/logo.png)
 
-<img src="assets/images/logo.png" width="150" alt="TAUT Logo">
+## 📌 نبذة عن المشروع
 
-# TAUT International Team
+موقع رسمي لفريق **TAUT International Team**، تم تصميمه ليكون واجهة احترافية تعرض هوية الفريق، أعضائه، مشاريع الفريق، سيرفرات الألعاب، والمعرض الخاص بالمجتمع.
 
-### Together, Reviving the Spirit of Teamwork
-
-موقع رسمي احترافي لمجتمع **TAUT International Team**، تم تصميمه بواجهة حديثة وسريعة الاستجابة لدعم جميع الأجهزة.
-
-</div>
+الموقع يجمع بين التصميم العصري والأداء العالي مع دعم كامل للأجهزة المختلفة.
 
 ---
 
-## نبذة
+# ✨ المميزات
 
-TAUT اختصار لـ:
+## 🏠 الصفحة الرئيسية
 
-> **The Arab Union of Teamwork**
-
-أو باللغة العربية:
-
-> **الاتحاد العربي للعمل الجماعي**
-
-يهدف المشروع إلى تقديم موقع احترافي يعكس هوية المجتمع ويعرض رسالته وأهدافه وإنجازاته بطريقة عصرية.
+- تصميم Hero احترافي.
+- عرض نبذة عن الفريق.
+- تأثيرات بصرية حديثة.
+- أقسام تعريفية عن المشاريع.
 
 ---
 
-# مميزات الموقع
+## 👥 صفحة الفريق
 
-- تصميم احترافي (Modern UI)
-- متوافق مع جميع الأجهزة
-- سرعة تحميل عالية
-- واجهة عربية (RTL)
-- تأثيرات حركية جميلة
-- عدادات متحركة
-- خلفية Particles
-- تأثيرات Hover
-- معرض صور
-- نموذج تواصل
-- تنظيم ملفات احترافي
-- أكواد نظيفة وقابلة للتطوير
+- عرض أعضاء فريق TAUT.
+- صور الأعضاء.
+- الرتب داخل الفريق.
+- وصف مختصر لكل عضو.
+- روابط التواصل الاجتماعي:
 
----
-
-# الصفحات
-
-- الصفحة الرئيسية
-- من نحن
-- القيم
-- الإنجازات
-- فريق الإدارة
-- معرض الصور
-- التواصل
+- Instagram
+- TikTok
+- Discord
+- GitHub
+- YouTube
 
 ---
 
-# هيكل المشروع
+## 🎮 صفحة الألعاب
 
-```
-TAUT/
-│
-├── index.html
-├── about.html
-├── values.html
-├── achievements.html
-├── team.html
-├── gallery.html
-├── contact.html
-│
-├── assets/
-│   │
-│   ├── css/
-│   │   ├── style.css
-│   │   └── responsive.css
-│   │
-│   ├── js/
-│   │   ├── script.js
-│   │   └── particles.js
-│   │
-│   ├── images/
-│   │   ├── logo.png
-│   │   ├── avatar.png
-│   │   └── gallery/
-│   │       ├── gallery1.jpg
-│   │       ├── gallery2.jpg
-│   │       ├── gallery3.jpg
-│   │       ├── gallery4.jpg
-│   │       ├── gallery5.jpg
-│   │       ├── gallery6.jpg
-│   │       ├── gallery7.jpg
-│   │       ├── gallery8.jpg
-│   │       └── gallery9.jpg
-│   │
-│   └── icons/
-│
-└── README.md
-```
+تحتوي على:
+
+### Minecraft
+
+- معلومات السيرفر.
+- عنوان الاتصال.
+- الإصدار.
+- حالة السيرفر.
+- عدد اللاعبين.
+
+### MTA:SA
+
+- معلومات السيرفر.
+- IP.
+- Port.
+- نظام عرض الحالة.
 
 ---
 
-# التقنيات المستخدمة
+## 🖼️ المعرض
+
+- عرض صور مشاريع الفريق.
+- عرض الفعاليات.
+- صور المجتمع.
+
+---
+
+## 📞 صفحة التواصل
+
+تحتوي على:
+
+- نموذج تواصل.
+- روابط التواصل الاجتماعي.
+- معلومات الفريق.
+
+---
+
+# 🛠️ التقنيات المستخدمة
+
+## Front-End
 
 - HTML5
 - CSS3
-- JavaScript ES6
-- Font Awesome
-- Google Fonts (Cairo)
-- Particles.js
+- JavaScript
+
+## التصميم
+
+- Responsive Design
+- CSS Animations
+- Modern UI
+- Glass Effect
+- Gradient Colors
+
+## المكتبات
+
+- Font Awesome Icons
+- Google Fonts
 
 ---
 
-#
-# الألوان
-
-| اللون | الكود |
-|-------|--------|
-| Primary | #0E72B8 |
-| Secondary | #56318C |
-| Accent | #7B5BFF |
-| Dark | #08111F |
-| Text | #D6E2F0 |
-
----
-
-# الخط
+# 📂 هيكل المشروع
 
 ```
-Cairo
+
+TAUT/
+
+│
+
+├── index.html
+
+├── about.html
+
+├── team.html
+
+├── games.html
+
+├── gallery.html
+
+├── contact.html
+
+│
+
+├── assets/
+
+│   │
+
+│   ├── css/
+
+│   │   ├── style.css
+
+│   │   ├── responsive.css
+
+│   │   └── team.css
+
+│   │
+
+│   ├── js/
+
+│   │   ├── script.js
+
+│   │   └── particles.js
+
+│   │
+
+│   └── images/
+
+│       ├── logo.png
+
+│       │
+
+│       ├── team/
+
+│       │   ├── founder.png
+
+│       │   ├── cofounder.png
+
+│       │   ├── developer.png
+
+│       │   ├── designer.png
+
+│       │   ├── moderator.png
+
+│       │   └── support.png
+
+│       │
+
+│       └── games/
+
+│           ├── minecraft.png
+
+│           └── mta.png
+
+└── README.md
+
+````
+
+
+# 🎨 الألوان المستخدمة
+
+| اللون   | الاستخدام     |
+| ------- | ------------- |
+| #0E72B8 | اللون الأساسي |
+| #7B5BFF | اللون الثانوي |
+| #080D18 | الخلفية       |
+| #FFFFFF | النصوص        |
+
+---
+
+# 📱 دعم الأجهزة
+
+الموقع يدعم:
+
+✅ أجهزة الكمبيوتر
+
+✅ أجهزة اللابتوب
+
+✅ الأجهزة اللوحية
+
+✅ الهواتف المحمولة
+
+---
+
+# 🤝 المساهمة
+
+نرحب بالمساهمات والتطوير.
+
+```
+# 📄 الترخيص
+
+هذا المشروع مخصص لفريق:
+
+```
+TAUT International Team
 ```
 
----
-
-# المتطلبات
-
-أي متصفح حديث مثل:
-
-- Google Chrome
-- Microsoft Edge
-- Firefox
-- Opera
-- Brave
+جميع الحقوق محفوظة.
 
 ---
 
-# المطور
 
-**محمد يحيى**
+# ⭐ شكرًا لزيارة مشروع TAUT
 
-Frontend Developer
+نحن نعمل على بناء مجتمع يجمع بين:
 
-UI / UX Designer
+🎮 الألعاب
 
-Web Developer
+💻 التقنية
 
-Article Writer
+🎨 التصميم
 
----
+🤝 التعاون
 
-# TAUT International Team
-
-> Together, Reviving the Spirit of Teamwork
-
-© 2026 TAUT International Team.
-All Rights Reserved.
+```
