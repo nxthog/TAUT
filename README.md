@@ -1,7 +1,7 @@
 
 # TAUT International Team Website
 
-![TAUT Logo](assets/images/logo.png)
+ ![TAUT Logo](assets/images/logo.png)
 
 ## 📌 نبذة عن المشروع
 
