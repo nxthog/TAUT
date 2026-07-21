@@ -1,6 +1,4 @@
-إليك ملف **`README.md`** كامل لمشروع موقع **TAUT International Team** بشكل احترافي:
 
-```md
 # TAUT International Team Website
 
 ![TAUT Logo](assets/images/logo.png)
